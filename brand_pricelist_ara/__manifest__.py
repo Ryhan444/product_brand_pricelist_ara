@@ -3,7 +3,7 @@
     "version": "18.0.0.0.0",
     "category": "Sale",
     "summary": "Product Brand In Pricelist",
-    "author": "ARA Soft",
+    "author": "ARA SOFT",
     "license": "AGPL-3",
     "depends": ["sale", "sale_management", "product_brand"],
     "data": [
