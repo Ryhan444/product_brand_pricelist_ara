@@ -5,7 +5,7 @@
     "summary": "Product Brand In Pricelist",
     "author": "ARA SOFT",
     "license": "AGPL-3",
-    "depends": ["sale", "sale_management", "product_brand"],
+    "depends": ["sale", "sale_management", "product_brand_oca"],
     "data": [
         "views/product_pricelist_item_views.xml"
     ],
