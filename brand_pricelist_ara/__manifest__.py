@@ -1,6 +1,6 @@
 {
     "name": "Applied on Product Brand in Pricelist",
-    "version": "18.0.0.0.0",
+    "version": "19.0.0.0.0",
     "category": "Sale",
     "summary": "Product Brand In Pricelist",
     "author": "ARA SOFT",
